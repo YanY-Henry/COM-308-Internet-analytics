@@ -4,7 +4,7 @@ The class seeks a balance between foundational but relatively basic material in 
 Specifically, we look at social & information networks, recommender systems, clustering and community detection, search/retrieval/topic models, dimensionality reduction, stream computing, and online ad auctions. Together, these provide a good coverage of the main uses for data mining and analytics applications in social networking, e-commerce, social media, etc.  
 The course is combination of theoretical materials and weekly laboratory sessions, where we explore several large-scale datasets from the real world. For this, you will work with a dedicated infrastructure based on Hadoop & Apache Spark.  
 
-*This repository contains labs and the project of this course.*
+*This repository contains all the 4 labs of this course.*
 
 |Labs|Deadline|
 |:--:|:------:|
