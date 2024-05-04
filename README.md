@@ -5,3 +5,12 @@ Specifically, we look at social & information networks, recommender systems, clu
 The course is combination of theoretical materials and weekly laboratory sessions, where we explore several large-scale datasets from the real world. For this, you will work with a dedicated infrastructure based on Hadoop & Apache Spark.  
 
 *This repository contains labs and the project of this course.*
+
+|Labs|Deadline|
+|:--:|:------:|
+|[Lab1](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab1)|Mar. 7th|
+|[Lab2](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab2)|Apr. 4th|
+|[Lab3](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab3)|May 16th|
+<!--
+|[Lab3](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab3)|May 16th|
+-->
