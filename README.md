@@ -8,7 +8,7 @@ The course is combination of theoretical materials and weekly laboratory session
 
 |Labs|Deadline|
 |:--:|:------:|
-|[Lab1](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab1)|Mar. 7th, 2024|
-|[Lab2](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab2)|Apr. 4th, 2024|
+|[Lab1](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab1)|March 7th, 2024|
+|[Lab2](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab2)|April 4th, 2024|
 |[Lab3](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab3)|May 16th, 2024|
 |[Lab4](https://github.com/YanY-Henry/COM-308-Internet-analytics/tree/main/lab4)|June 6th, 2024|
